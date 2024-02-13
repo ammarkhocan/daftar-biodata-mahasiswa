@@ -10,7 +10,7 @@
    JK     : Perempuan
    Agama  : Islam
    TTL    : Samarinda, 02 Juni 2003
-   Alamat : Jln. Bantuas RT.01 No.18
+   Alamat : Jln. Jakarta RT.14 No.33
  
 3. Nama   : Indah Istiqomah
    NIM    : H2020000003
@@ -32,3 +32,10 @@
    Agama  : Islam
    TTL    : Ambon, 19 Agustus 2003
    Alamat : Jln. Loa Bakung RT.21 No.04
+
+6. Nama   : Ammar Ismail Khocan
+   NIM    : 2111098843
+   JK     : Laki - Laki
+   Agama  : Islam
+   TTL    : Bengkulu, 19 Agustus 2003
+   Alamat : Jln. Air Bang RT.21 No.04
